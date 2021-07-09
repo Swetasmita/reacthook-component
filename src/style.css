@@ -1,0 +1,19 @@
+body { 
+	margin: 0 auto !important; 
+	float: none !important; 
+
+}
+.container {
+  padding: 20px;
+  margin:10px;
+  }
+  .app {
+    text-align: center;
+    background:#92f1d2;
+    min-height: 100vh;
+    padding-top: 10px;
+  }
+  .blue{
+    color: rgb(74, 6, 231);
+    font-size: medium;
+  }
